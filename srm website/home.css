@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+nav ul li{
+    display: inline;
+}
+
+#headd {
+    font-size: 3rem;
+    padding-right: 30%;
+}
+
+nav ul li {
+    padding-right: 2rem;
+}
